@@ -1,5 +1,5 @@
 # Wonderful Icons - WWDC21
-A swift playgorund created by Jakub Florek for WWDC21 Swift Student Challange
+An accepted swift playgorund created by Jakub Florek for WWDC21 Swift Student Challange
 
 ## About
 It's a quick and simple guide to designing „wonderful icons”. It's hard to create something unique, meaningful, universal and beautiful at the same time. That’s why I made the playground to help people understand how to design icons with less effort and more fun!
